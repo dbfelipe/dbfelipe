@@ -3,8 +3,7 @@
 ## About Me:
 * Currently a Computer Science student at the University of Houston with a minor in Mathematics
 * Software Development Engineer with experience in full-stack development
-* Passionate about building scalable applications and integrating AI solutions
-* Always eager to learn new technologies and tackle challenging problems!
+* In constant pursuit of knowledge, both in technological craftsmanship and the human experience
 
 ## Current Experiences:
 * **Software Development Engineer** at Anglez (Startup)
