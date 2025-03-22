@@ -1,4 +1,4 @@
-![Header](./Users/danielbfelipe/Downloads/github-header-image.png)
+
 ![github-header-image](https://github.com/user-attachments/assets/abd2ec52-5110-4bb7-95d3-0625507de566)
 
 # 👋 Hey there, I'm Daniel Felipe
