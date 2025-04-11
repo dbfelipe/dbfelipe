@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielbfelipe/danielbfelipe/main/assests/Programming.gif" width="300"/>
+  <img src="assests/Programming.gif" width="300"/>
 </p>
 
 ## About Me:
