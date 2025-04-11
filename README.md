@@ -1,5 +1,7 @@
 
-![github-header-image](https://github.com/user-attachments/assets/abd2ec52-5110-4bb7-95d3-0625507de566)
+<p align="center">
+  <img src="assets/Programming.gif" width="300"/>
+</p>
 ## About Me:
 * Currently a Computer Science student at the University of Houston with a minor in Mathematics
 * Software Development Engineer with experience in full-stack development
