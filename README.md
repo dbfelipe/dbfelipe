@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/Hand-coding-1--unscreen.gif" width="400"/>
+  <img src="assets/Programmer-unscreen.gif" width="400"/>
 </p>
 
 ## About Me:
