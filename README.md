@@ -2,32 +2,33 @@
 <p align="center">
   <img src="assets/Programming.gif" width="300"/>
 </p>
+
 ## About Me:
-* Currently a Computer Science student at the University of Houston with a minor in Mathematics
-* Software Development Engineer with experience in full-stack development
-* In constant pursuit of knowledge, both in technological craftsmanship and the human experience
+* Currently a Computer Science student at the University of Houston with a minor in Mathematics  
+* Software Development Engineer with experience in full-stack development  
+* In constant pursuit of knowledge, both in technological craftsmanship and the human experience  
 
 ## Current Experiences:
-* **Software Development Engineer** at Anglez (Startup)
-* **Computer Science Student** at University of Houston
+* **Software Development Engineer** at Anglez (Startup)  
+* **Computer Science Student** at University of Houston  
 
 ## Past Experiences:
-* **Web Development Intern** at COGOP International Office
-* **Python Certification** from HackerRank
+* **Web Development Intern** at COGOP International Office  
+* **Python Certification** from HackerRank  
 
 ## Projects:
-* **AI Media Summarizer**: A full-stack application that transcribes and summarizes YouTube videos and media files
-* **FullStack Admin Dashboard**: A MERN stack admin panel with advanced data visualization
-* **FullStack Expense Tracker**: A financial tracking application with dynamic insights
+* **AI Media Summarizer** – A full-stack application that transcribes and summarizes YouTube videos and media files  
+* **FullStack Admin Dashboard** – A MERN stack admin panel with advanced data visualization  
+* **FullStack Expense Tracker** – A financial tracking application with dynamic insights  
 
 ## Technical Skills:
-* **Languages**: JavaScript, TypeScript, Python, C++, Swift, Java, HTML, CSS, PHP, SQL
-* **Frameworks**: Node.js, React, Express, REST APIs, Git, MongoDB
+* **Languages:** JavaScript, TypeScript, Python, C++, Swift, Java, HTML, CSS, PHP, SQL  
+* **Frameworks:** Node.js, React, Express, REST APIs, Git, MongoDB  
 
-## How to reach me/Links:
-* 📧: dbfelipe24@gmail.com
-* 🔗: https://www.linkedin.com/in/daniel-b-felipe
-* 💻: https://github.com/dbfelipe
+## How to reach me / Links:
+* 📧 [dbfelipe24@gmail.com](mailto:dbfelipe24@gmail.com)  
+* 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-felipe)  
+* 💻 [GitHub](https://github.com/dbfelipe)
 
 <!---
 dbfelipe/dbfelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
