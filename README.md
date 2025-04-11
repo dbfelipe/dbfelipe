@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assests/Programming.gif" width="300"/>
+  <img src="assests/Programming.gif" width="600"/>
 </p>
 
 ## About Me:
