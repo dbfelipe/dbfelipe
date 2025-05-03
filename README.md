@@ -28,8 +28,6 @@
 ## How to reach me / Links:
 * 📧 [dbfelipe24@gmail.com](mailto:dbfelipe24@gmail.com)  
 * 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-felipe)  
-* 💻 [GitHub](https://github.com/dbfelipe)
-
 <!---
 dbfelipe/dbfelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
