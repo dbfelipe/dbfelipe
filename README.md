@@ -1,10 +1,18 @@
 
 <p align="center">
   <img src="assets/Programmer-unscreen.gif" width="400"/>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/daniel-b-felipe)
-  [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:dbfelipe24@gmail.com)
 </p>
-## 👋 Hey there, I’m Daniel Felipe
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-b-felipe">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dbfelipe24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+## 👋 Hello, I’m Daniel Felipe
 
 - 🎓 CS Student at the University of Houston  
 - 💻 Building full-stack apps and solving real-world problems  
@@ -12,7 +20,6 @@
 
 ### 🔧 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-...
 
 ## About Me:
 * Currently a Computer Science student at the University of Houston with a minor in Mathematics  
@@ -37,7 +44,3 @@
 ## How to reach me / Links:
 * 📧 [dbfelipe24@gmail.com](mailto:dbfelipe24@gmail.com)  
 * 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-felipe)  
-<!---
-dbfelipe/dbfelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
