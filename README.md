@@ -4,6 +4,15 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/daniel-b-felipe)
   [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:dbfelipe24@gmail.com)
 </p>
+## 👋 Hey there, I’m Daniel Felipe
+
+- 🎓 CS Student at the University of Houston  
+- 💻 Building full-stack apps and solving real-world problems  
+- 🎯 Passionate about web dev, systems, and AI  
+
+### 🔧 Tech Stack  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+...
 
 ## About Me:
 * Currently a Computer Science student at the University of Houston with a minor in Mathematics  
