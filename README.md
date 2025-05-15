@@ -1,6 +1,8 @@
 
 <p align="center">
   <img src="assets/Programmer-unscreen.gif" width="400"/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/daniel-b-felipe)
+  [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:dbfelipe24@gmail.com)
 </p>
 
 ## About Me:
