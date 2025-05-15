@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-b-felipe">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" height="30"/>
   </a>
   <a href="mailto:dbfelipe24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email" height="30"/>
   </a>
 </p>
 
@@ -60,12 +60,6 @@
 * **AI Media Summarizer** – A full-stack application that transcribes and summarizes YouTube videos and media files  
 * **FullStack Admin Dashboard** – A MERN stack admin panel with advanced data visualization  
 * **FullStack Expense Tracker** – A financial tracking application with dynamic insights  
-
----
-
-## Technical Skills:
-* **Languages:** JavaScript, TypeScript, Python, C++, Swift, Java, HTML, CSS, PHP, SQL  
-* **Frameworks:** Node.js, React, Express, REST APIs, Git, MongoDB  
 
 ---
 
