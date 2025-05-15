@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Programmer-unscreen.gif" width="400"/>
+  <img src="assets/READMEImage.png" width="400"/>
 </p>
 
 <p align="center">
@@ -13,15 +13,16 @@
 
 ## 👋 Hello, I’m Daniel Felipe
 
-- 🎓 CS Student at the University of Houston  
-- 💻 Building full-stack apps and solving real-world problems  
-- 🎯 Passionate about web dev, systems, and AI  
+- 🎓 CS Student at the University of Houston
+- 💻 Building full-stack apps and solving real-world problems
+- 🎯 Passionate about web dev, systems, and AI
 
 ---
 
-### Tech Stack  
+### Tech Stack
 
-#### **Languages**  
+#### **Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -31,7 +32,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-#### **Frameworks & Libraries**  
+#### **Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
@@ -42,30 +44,34 @@
 ---
 
 ## About Me:
-* Currently a Computer Science student at the University of Houston with a minor in Mathematics  
-* Software Development Engineer with experience in full-stack development  
-* In constant pursuit of knowledge, both in technological craftsmanship and the human experience  
-* **Software Development Engineer** at Anglez (Startup)  
-* **Computer Science Student** at University of Houston  
+
+- Currently a Computer Science student at the University of Houston with a minor in Mathematics
+- Software Development Engineer with experience in full-stack development
+- In constant pursuit of knowledge, both in technological craftsmanship and the human experience
+- **Software Development Engineer** at Anglez (Startup)
+- **Computer Science Student** at University of Houston
 
 ---
 
 ## Past Experiences:
-* **Web Development Intern** at COGOP International Office  
-* **Python Certification** from HackerRank  
+
+- **Web Development Intern** at COGOP International Office
+- **Python Certification** from HackerRank
 
 ---
 
 ## Projects:
-* **AI Media Summarizer** – A full-stack application that transcribes and summarizes YouTube videos and media files  
-* **FullStack Admin Dashboard** – A MERN stack admin panel with advanced data visualization  
-* **FullStack Expense Tracker** – A financial tracking application with dynamic insights  
+
+- **AI Media Summarizer** – A full-stack application that transcribes and summarizes YouTube videos and media files
+- **FullStack Admin Dashboard** – A MERN stack admin panel with advanced data visualization
+- **FullStack Expense Tracker** – A financial tracking application with dynamic insights
 
 ---
 
 ## How to reach me / Links:
-* 📧 [dbfelipe24@gmail.com](mailto:dbfelipe24@gmail.com)  
-* 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-felipe)  
+
+- 📧 [dbfelipe24@gmail.com](mailto:dbfelipe24@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-b-felipe)
 
 <!---
 dbfelipe/dbfelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
