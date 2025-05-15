@@ -11,6 +11,7 @@
   </a>
 </p>
 <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=380&height=100&pause=1000" />
+
 - 🎓 CS Student at the University of Houston
 - 💻 Building full-stack apps and solving real-world problems
 - 🎯 Passionate about web dev, systems, and AI
