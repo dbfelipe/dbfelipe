@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email" height="30"/>
   </a>
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 ## 👋 Hello, I’m Daniel Felipe
 
