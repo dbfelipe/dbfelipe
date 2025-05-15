@@ -11,11 +11,7 @@
   </a>
   <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=380&height=100&pause=1000" />
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
-
-## 👋 Hello, I’m Daniel Felipe
-
+<img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=380&height=100&pause=1000" />
 - 🎓 CS Student at the University of Houston
 - 💻 Building full-stack apps and solving real-world problems
 - 🎯 Passionate about web dev, systems, and AI
