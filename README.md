@@ -12,16 +12,16 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-b-felipe">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="mailto:dbfelipe24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email" height="30"/>
-  </a>
-</p>
-<img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=380&height=100&pause=1000" />
-
+<table style="border: none;">
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <img src="assets/READMEImage (1).png" width="300"/>
+    </td>
+    <td style="border: none; padding-left: 20px; vertical-align: middle;">
+      <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=450&height=100&pause=1000" />
+    </td>
+  </tr>
+</table>
 - 🎓 CS Student at the University of Houston
 - 💻 Building full-stack apps and solving real-world problems
 - 🎯 Passionate about web dev, systems, and AI
