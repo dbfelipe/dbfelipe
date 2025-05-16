@@ -1,5 +1,8 @@
 <p align="left">
-  <img src="assets/READMEImage (1).png" width="250"/>
+  <img src="assets/READMEImage (1).png" width="300"/>
+</p>
+<p align="center>
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=380&height=100&pause=1000" />
 </p>
 
 <p align="center">
