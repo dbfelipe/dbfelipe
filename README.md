@@ -12,16 +12,10 @@
   </tr>
 </table>
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <img src="assets/READMEImage (1).png" width="300"/>
-    </td>
-    <td style="border: none; padding-left: 20px; vertical-align: middle;">
-      <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=450&height=100&pause=1000" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="assets/READMEImage (1).png" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=450&height=100&pause=1000" />
+</div>
 - 🎓 CS Student at the University of Houston
 - 💻 Building full-stack apps and solving real-world problems
 - 🎯 Passionate about web dev, systems, and AI
