@@ -1,16 +1,4 @@
-<p align="left">
-  <img src="assets/READMEImage (1).png" width="300"/>
-</p>
-<table>
-  <tr>
-    <td>
-      <img src="assets/READMEImage (1).png" width="300"/>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=450&height=100&pause=1000" />
-    </td>
-  </tr>
-</table>
+
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="assets/READMEImage (1).png" width="300"/>
