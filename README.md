@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="assets/READMEImage (1).png" width="300"/>
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=500&height=120&pause=1000&font=Fira+Code&size=30" />
+  <img src="https://readme-typing-svg.demolab.com?lines=👋Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=500&height=120&pause=1000&font=Fira+Code&size=30" />
 </div>
 
 - 🎓 CS Student at the University of Houston
