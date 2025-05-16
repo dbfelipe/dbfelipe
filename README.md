@@ -1,8 +1,16 @@
 <p align="left">
   <img src="assets/READMEImage (1).png" width="300"/>
 </p>
-<img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=500&height=100&pause=1000" />
-
+<table>
+  <tr>
+    <td>
+      <img src="assets/READMEImage (1).png" width="300"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=450&height=100&pause=1000" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-b-felipe">
