@@ -1,9 +1,8 @@
 <p align="left">
   <img src="assets/READMEImage (1).png" width="300"/>
 </p>
-<p align="center>
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=380&height=100&pause=1000" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;Passionate+about+learning&center=false&vCenter=true&width=500&height=100&pause=1000" />
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-b-felipe">
