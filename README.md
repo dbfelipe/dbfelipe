@@ -54,7 +54,7 @@
 
 ## Projects:
 
-- **AI Lecture Summarizer** – A full-stack application that transcribes and summarizes YouTube videos and media files
+- **AI Lecture Summarizer** – Application that generates interactive Quizlet style flashcards from audiofiles and youtube links
 - **FullStack Admin Dashboard** – A MERN stack admin panel with advanced data visualization
 - **FullStack Expense Tracker** – A financial tracking application with dynamic insights
 
