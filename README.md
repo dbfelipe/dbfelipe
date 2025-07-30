@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel+Felipe;Full+Stack+Engineer;&center=false&vCenter=true&width=500&height=120&pause=1000&font=Fira+Code&size=30" />
 </div>
 
-- 🎓 CS Student at the University of Houston
+- 🎓 CS+Math Student at the University of Houston
 - 💻 Building full-stack apps and solving real-world problems
 - 🎯 Passionate about web dev, systems, and AI
 
