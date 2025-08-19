@@ -5,9 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel;Software+Engineer;&center=false&vCenter=true&width=500&height=120&pause=1000&font=Fira+Code&size=30" />
 </div>
 
-- 🎓 CS+Math Student at the University of Houston
-- 💻 Building full-stack apps and solving real-world problems
-- 🎯 Passionate about web dev, systems, and AI
+- I study Computer Science and Mathematics at the Univeristy of Houston
+- Trying to master the art of Software Engineering
 
 ---
 
