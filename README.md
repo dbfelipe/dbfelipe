@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Daniel;Software+Engineer;&center=false&vCenter=true&width=500&height=120&pause=1000&font=Fira+Code&size=30" />
 </div>
 
-- I study Computer Science and Mathematics at the Univeristy of Houston
-- Trying to master the art of Software Engineering
-
 ---
 
 ### Tech Stack
@@ -37,15 +34,12 @@
 ## About Me:
 
 - Currently a Computer Science student at the University of Houston with a minor in Mathematics
-- Software Development Engineer with experience in full-stack development
 - In constant pursuit of knowledge, both in technological craftsmanship and the human experience
-- **Software Development Engineer** at Anglez (Startup)
-- **Computer Science Student** at University of Houston
-
 ---
 
 ## Past Experiences:
 
+- **Software Development Engineer** at Anglez (Startup)
 - **Web Development Intern** at COGOP International Office
 - **Python Certification** from HackerRank
 
