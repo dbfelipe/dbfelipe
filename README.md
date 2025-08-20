@@ -47,7 +47,7 @@
 
 ## Projects:
 
-- **AI Lecture Summarizer** – Application that generates interactive Quizlet style flashcards from audiofiles and youtube links
+- **NoteCrunch** – Application that generates interactive Quizlet style flashcards from audiofiles and youtube links
 - **FullStack Admin Dashboard** – A MERN stack admin panel with advanced data visualization
 - **FullStack Expense Tracker** – A financial tracking application with dynamic insights
 
