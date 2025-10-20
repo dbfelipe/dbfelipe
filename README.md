@@ -45,7 +45,7 @@
 
 ---
 
-## Projects:
+## Notable Projects:
 
 - **NoteCrunch** – Application that generates interactive Quizlet style flashcards from audiofiles and youtube links
 - **FullStack Admin Dashboard** – A MERN stack admin panel with advanced data visualization
