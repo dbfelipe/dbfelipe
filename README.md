@@ -33,24 +33,8 @@
 
 ## About Me:
 
-- Currently a Computer Science student at the University of Houston with a minor in Mathematics
-- In constant pursuit of knowledge, both in technological craftsmanship and the human experience
----
-
-## Past Experiences:
-
-- **Software Development Engineer** at Anglez (Startup)
-- **Web Development Intern** at COGOP International Office
-- **Python Certification** from HackerRank
-
----
-
-## Notable Projects:
-
-- **NoteCrunch** – Application that generates interactive Quizlet style flashcards from audiofiles and youtube links
-- **FullStack Admin Dashboard** – A MERN stack admin panel with advanced data visualization
-- **FullStack Expense Tracker** – A financial tracking application with dynamic insights
-
+- Currently a Developer at Mouser Electronics
+- Emphasis in Data Engineering and Data Analysis
 ---
 
 ## How to reach me / Links:
