@@ -34,7 +34,7 @@
 
 ## About Me:
 
-- BI Developer @ **Mouser Electronics** [![Mouser Electronics](https://img.shields.io/badge/Mouser%20Electronics-BI%20Developer-red)](https://www.mouser.com/)
+- BI Developer @ **Mouser Electronics** 
 - Focused on **Data Engineering, SQL, and Analytics**
 - Building data pipelines, transformations, and dashboards
 ---
